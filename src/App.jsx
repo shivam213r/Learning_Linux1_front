@@ -20,6 +20,8 @@ function App() {
     }
   };
 
+  
+
   const sendMessage = async () => {
     if (!text) return;
 
